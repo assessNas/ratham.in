@@ -1,6 +1,3 @@
-# ratham.in
-Pre-screening assignments requested to complete for Lead SE role @ ratham.in
-
 # Designing "assessments.nas", a online dynamic assessment
 
 ### Context
@@ -22,3 +19,7 @@ Assume the question paper is a directed graph with a single root node where an a
 
 ### HLD
 C4 model - https://s.icepanel.io/Iv3IKcT3XLQn5L/8ExY
+
+### DB Schema 
+
+...
