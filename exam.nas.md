@@ -2,7 +2,7 @@ Backend Architecture Design of `assessments.nas` or `exam.nas`
 
 ### HLD of v0 [C4 Rep]
 
-This was my 1st design. A failure actually! But this design enabled me to build this pitch-perfect design.
+This was my 1st design. A failure actually! But the experience enabled me to realize my mistakes and redesign from scratch.
 
 C4 model - https://s.icepanel.io/Iv3IKcT3XLQn5L/8ExY
 
