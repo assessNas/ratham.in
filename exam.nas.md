@@ -98,4 +98,4 @@ Assuming the backend is designed using RESTful APIs, here are the API endpoints 
 
 Note: The "batchSize" parameter could be defined based on the number of questions you want to show in each batch. It can be augmented into a pagination query!
 
-With this architecture and APIs, the frontend can interact with the backend to handle the user actions you mentioned, such as showing the current batch of questions, answering questions, showing the next and previous batches, and displaying the final score once the assessment 
+With this architecture and APIs, the frontend can interact with the backend to handle the user actions, such as showing the current batch of questions, answering questions, showing the next and previous batches, and displaying the final score once the assessment 
