@@ -1,5 +1,11 @@
 Backend Architecture Design of `assessments.nas` or `exam.nas`
 
+### HLD of v0 [C4 Rep]
+
+This was my 1st design. A failure actually! But this design enabled me to build this pitch-perfect design.
+
+C4 model - https://s.icepanel.io/Iv3IKcT3XLQn5L/8ExY
+
 ## Database Schema:
 
 For the DB, I decided to opt for a NoSQl DB, or a key-value pair DB. The nature of the assessment, retrieval of data, the immutability/structure of the data,the horizontal scalability, high fz of reads over writes  has all influenced in my decision to go with a non-traditional approach of NoSQL over SQL DB. 
@@ -99,3 +105,5 @@ Assuming the backend is designed using RESTful APIs, here are the API endpoints 
 Note: The "batchSize" parameter could be defined based on the number of questions you want to show in each batch. It can be augmented into a pagination query!
 
 With this architecture and APIs, the frontend can interact with the backend to handle the user actions, such as showing the current batch of questions, answering questions, showing the next and previous batches, and displaying the final score once the assessment 
+
+
