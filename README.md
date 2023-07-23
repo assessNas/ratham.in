@@ -17,9 +17,4 @@ Assume the question paper is a directed graph with a single root node where an a
     - The assessment auto ends when the leaf is reached. FE or User won't know which is the last question.   He would only after he presses next. 
     - Score gets shown once assessment ends.
 
-### HLD
-C4 model - https://s.icepanel.io/Iv3IKcT3XLQn5L/8ExY
-
-### DB Schema 
-
 ...
